@@ -1,2 +1,3 @@
 int a=10;
-string a=100;
+int c=20;
+
